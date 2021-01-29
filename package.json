@@ -11,13 +11,9 @@
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/yangli-io/icons-svg.git"
-  },
-  "author": "",
+  "author": "Yang Li",
   "license": "MIT",
-  "homepage": "https://github.com/yangli-io/npm-package-ts-starter-kit",
+  "homepage": "https://github.com/crypto-university/crypto-react-svg-icons",
   "devDependencies": {
     "@babel/core": "^7.12.10",
     "@storybook/addon-actions": "^6.1.15",
